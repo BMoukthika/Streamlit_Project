@@ -22,4 +22,4 @@ This is a Streamlit application for exploring and visualizing data from a datase
 
 10. **Download Original Dataset**: Provides an option to download the original dataset.
 
-The script leverages Streamlit for building interactive web applications with simple Python scripts. It integrates seamlessly with Plotly Express for creating interactive visualizations and Pandas for data manipulation. This application is useful for exploratory data analysis and gaining insights into sales data from the sample superstore dataset.
+This project integrates seamlessly with Plotly Express for creating interactive visualizations and Pandas for data manipulation. This application is useful for exploratory data analysis and gaining insights into sales data from the sample superstore dataset.
