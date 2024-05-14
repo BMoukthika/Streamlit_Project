@@ -1,6 +1,6 @@
 # Streamlit_Project
 
-This Python script is a Streamlit application for exploring and visualizing data from a dataset, particularly focusing on analyzing sales data from a sample superstore. Here's a brief overview of what the script does:
+This is a Streamlit application for exploring and visualizing data from a dataset, particularly focusing on analyzing sales data from a sample superstore. Here's a brief overview of what the script does:
 
 1. **Imports**: The script imports necessary libraries such as Streamlit, Plotly Express, Pandas, and warnings. It also sets up warning suppression for cleaner output.
 
